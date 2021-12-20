@@ -1,8 +1,13 @@
 Usage
 
-First, get the script and make it executable:
+First, clone the folder by using the below command:
 
-curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
+git clone https://github.com/nihalrajdevops/coreyo.git
+
+navigaate to the folder using below command(you need to have root access going forward)
+cd /coreyo
+
+once done copy the below command 
 chmod +x openvpn-install.sh
 Then run it:
 
